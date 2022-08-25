@@ -1,5 +1,6 @@
 # BeMaster game sinopsis
 
+![image](https://user-images.githubusercontent.com/50213595/186723300-dff5fd97-6763-47cb-8c93-aa87b005a87c.png)
 ![image](https://user-images.githubusercontent.com/50213595/186722732-87396870-3aef-4155-b377-af8ceecb6490.png)
 
 
